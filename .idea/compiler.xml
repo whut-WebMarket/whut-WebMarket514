@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="WebMarket" />
+        <module name="whut-WebMarket514" />
       </profile>
     </annotationProcessing>
   </component>
